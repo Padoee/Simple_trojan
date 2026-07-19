@@ -19,3 +19,7 @@
 - Enfin, tapez : ```python -m PyInstaller -w -F trojan.py```
 
 - Et voilà, le fichier .exe est dans le dossier ```dist```, situé à l'intérieur du dossier Simple_trojan
+
+## Disclaimer
+
+Ce projet a pour but l'éducation, et non pas la promotion de logiciels/techniques malveillantes. Merci d'utiliser ce script avec prudence et de ne l'utiliser qu'avec des personnes qui ont le CONSENTEMENT !
